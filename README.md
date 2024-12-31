@@ -53,7 +53,7 @@ Hands-on projects are a great way to apply your knowledge. Check out these proje
 - [WebAssembly.org](https://webassembly.org/) - The official site with tutorials, documentation, and community links.
 - [WebAssembly Community Group](https://github.com/WebAssembly/community) - Participate in discussions, propose features, and stay updated with developments.
 - [YouTube Tutorials and Courses](https://www.youtube.com/results?search_query=webassembly+tutorial) - Video-based learning for visual and hands-on learners.
-- [Online Courses on Platforms like Udemy, Coursera, and Pluralsight](https://www.udemy.com/topic/webassembly/) - Structured courses ranging from introductory to advanced levels.
+- [Online Courses on Platforms like Udemy, Coursera, and Pluralsight](https://www.udemy.com/courses/search/?q=webassembly&sort=relevance&src=ukw) - Structured courses ranging from introductory to advanced levels.
 
 ---
 

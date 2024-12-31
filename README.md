@@ -24,11 +24,10 @@ Here's a list of helpful articles for learning WebAssembly:
 - [MDN Web Docs: Introduction to WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly) - Official documentation with tutorials, examples, and API references.
 - [Google Developers: Get Started with WebAssembly](https://developer.chrome.com/s/results?q=webassembly#gsc.tab=0&gsc.q=webassembly&gsc.sort=) - Beginner-friendly guide to building and deploying WebAssembly modules.
 - [Smashing Magazine: A Comprehensive Guide To WebAssembly](https://www.smashingmagazine.com/search/?q=webassembly) - In-depth article covering the basics, tools, and practical applications.
-- [FreeCodeCamp: What is WebAssembly and Why Should You Care?](https://www.freecodecamp.org/news/search?query=webassembly) - Explains the importance of WebAssembly and its impact on web development.
-- [HTML5 Rocks: Using WebAssembly](https://www.html5rocks.com/en/tutorials/wasm/basics/) - Tutorial on integrating WebAssembly with existing web technologies.
-- [Dev.to: WebAssembly for JavaScript Developers](https://dev.to/your_username/webassembly-for-javascript-developers-xxxx) - Tailored for JS developers looking to leverage WebAssembly in their projects.
-- [InfoWorld: WebAssembly Gains Traction in Enterprise Applications](https://www.infoworld.com/article/xxxx/webassembly-gains-traction.html) - Discusses enterprise use cases and adoption trends.
-- [Stack Overflow Blog: The Rise of WebAssembly](https://stackoverflow.blog/2020/xx/the-rise-of-webassembly/) - Insights into the community and ecosystem growth around WebAssembly.
+- [FreeCodeCamp](https://www.freecodecamp.org/news/search?query=webassembly) - Explains the importance of WebAssembly and its impact on web development.
+- [Dev.to: WebAssembly for JavaScript Developers](https://dev.to/search?utf8=%E2%9C%93&q=webassembly) 
+- [InfoWorld: WebAssembly Gains Traction in Enterprise Applications](https://www.infoworld.com/search/q=webassembly#gsc.tab=0&gsc.q=webassembly&gsc.page=1)
+- 
 
 ---
 

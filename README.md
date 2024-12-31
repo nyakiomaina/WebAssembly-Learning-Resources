@@ -1,6 +1,6 @@
 # WebAssembly Learning Resources
 
-A curated list of resources to help you learn and master WebAssembly. Whether you're a beginner or looking to deepen your knowledge, these books, articles, and projects will guide you on your WebAssembly journey.
+A curated list of resources to help you learn and master WebAssembly and possibly Rust
 
 ---
 
@@ -22,9 +22,9 @@ Here's a list of helpful articles for learning WebAssembly:
 
 - [Understanding WebAssembly Text Format](https://developer.mozilla.org/en-US/docs/WebAssembly/Understanding_the_text_format) - A comprehensive guide to understanding the text format in WebAssembly.
 - [MDN Web Docs: Introduction to WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly) - Official documentation with tutorials, examples, and API references.
-- [Google Developers: Get Started with WebAssembly](https://developers.google.com/web/updates/2019/03/get-started-with-webassembly) - Beginner-friendly guide to building and deploying WebAssembly modules.
-- [Smashing Magazine: A Comprehensive Guide To WebAssembly](https://www.smashingmagazine.com/2020/02/comprehensive-guide-webassembly/) - In-depth article covering the basics, tools, and practical applications.
-- [FreeCodeCamp: What is WebAssembly and Why Should You Care?](https://www.freecodecamp.org/news/what-is-webassembly-and-why-should-you-care/) - Explains the importance of WebAssembly and its impact on web development.
+- [Google Developers: Get Started with WebAssembly](https://developer.chrome.com/s/results?q=webassembly#gsc.tab=0&gsc.q=webassembly&gsc.sort=) - Beginner-friendly guide to building and deploying WebAssembly modules.
+- [Smashing Magazine: A Comprehensive Guide To WebAssembly](https://www.smashingmagazine.com/search/?q=webassembly) - In-depth article covering the basics, tools, and practical applications.
+- [FreeCodeCamp: What is WebAssembly and Why Should You Care?](https://www.freecodecamp.org/news/search?query=webassembly) - Explains the importance of WebAssembly and its impact on web development.
 - [HTML5 Rocks: Using WebAssembly](https://www.html5rocks.com/en/tutorials/wasm/basics/) - Tutorial on integrating WebAssembly with existing web technologies.
 - [Dev.to: WebAssembly for JavaScript Developers](https://dev.to/your_username/webassembly-for-javascript-developers-xxxx) - Tailored for JS developers looking to leverage WebAssembly in their projects.
 - [InfoWorld: WebAssembly Gains Traction in Enterprise Applications](https://www.infoworld.com/article/xxxx/webassembly-gains-traction.html) - Discusses enterprise use cases and adoption trends.
@@ -41,7 +41,7 @@ Hands-on projects are a great way to apply your knowledge. Check out these proje
 - [Rust and WebAssembly](https://rustwasm.github.io/) - Resources for building WebAssembly modules using Rust. Includes the `wasm-bindgen` tool and example projects.
 - [Emscripten](https://emscripten.org/) - Compiler toolchain for compiling C/C++ to WebAssembly. Features tutorials and example applications.
 - [Blazor WebAssembly](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) - Microsoft’s framework for building interactive web UIs using C# and WebAssembly. Includes sample projects and documentation.
-- [Figma's WebAssembly-based Plugins](https://www.figma.com/plugin-docs/using-webassembly/) - Examples of real-world applications leveraging WebAssembly for performance.
+- [Figma's WebAssembly-based Plugins](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/) - Examples of real-world applications leveraging WebAssembly for performance.
 - [wasm3](https://github.com/wasm3/wasm3) - A high-performance WebAssembly interpreter. Suitable for embedded systems; includes examples and usage guides.
 - [Pyodide](https://pyodide.org/en/stable/) - Python distribution for WebAssembly, allowing Python code to run in the browser. Explore projects and tutorials on integrating Python with web apps.
 

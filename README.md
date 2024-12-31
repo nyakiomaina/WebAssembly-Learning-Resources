@@ -44,16 +44,14 @@ Hands-on projects are a great way to apply your knowledge. Check out these proje
 - [Figma's WebAssembly-based Plugins](https://www.figma.com/plugin-docs/using-webassembly/) - Examples of real-world applications leveraging WebAssembly for performance.
 - [wasm3](https://github.com/wasm3/wasm3) - A high-performance WebAssembly interpreter. Suitable for embedded systems; includes examples and usage guides.
 - [Pyodide](https://pyodide.org/en/stable/) - Python distribution for WebAssembly, allowing Python code to run in the browser. Explore projects and tutorials on integrating Python with web apps.
-- [WebAssembly Studio](https://webassembly.studio/) - An online IDE for experimenting with WebAssembly. Create, compile, and debug WebAssembly modules directly in the browser.
 
 ---
 
 ## 🔗 Additional Resources
 
 - [WebAssembly.org](https://webassembly.org/) - The official site with tutorials, documentation, and community links.
-- [WebAssembly Community Group](https://github.com/WebAssembly/community) - Participate in discussions, propose features, and stay updated with developments.
+- [WebAssembly Community Group](https://github.com/WebAssembly/) - Participate in discussions, propose features, and stay updated with developments.
 - [YouTube Tutorials and Courses](https://www.youtube.com/results?search_query=webassembly+tutorial) - Video-based learning for visual and hands-on learners.
-- [Online Courses on Platforms like Udemy, Coursera, and Pluralsight](https://www.udemy.com/courses/search/?q=webassembly&sort=relevance&src=ukw) - Structured courses ranging from introductory to advanced levels.
 
 ---
 
